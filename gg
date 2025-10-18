@@ -1,15 +1,3 @@
-Of course. This is a comprehensive set of improvements. I'll tackle them in a logical order, starting with the core functionality and bug fixes, and then move on to the more significant feature additions like the AI improvements and light mode.
-
-Here is the first set of changes, which addresses the most critical bugs and functionality issues:
-
-1.  **Journaling and Automatic Stats:** The "Add to Journal" button now correctly logs trades. When a trade is added, all relevant statistics (Total P&L, Win Rate, Equity Curve, etc.) and the dashboard calendar will update automatically.
-2.  **ZEN Soundscapes:** The focus soundscape buttons (rain, forest, waves) now play the correct ambient sounds when clicked.
-3.  **Contact Us Link:** The "Contact Us" page now includes a clickable `mailto:` link for the `INTRADELAI@GMAIL.COM` email address.
-4.  **General Bug Fixes:** Several smaller bugs related to UI updates and data consistency have been resolved.
-
-Here is the updated code. I have replaced the entire file with this new version which incorporates all the fixes mentioned above.
-
-```html name=NEW.HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
